@@ -101,3 +101,5 @@ ENV/
 .mypy_cache/
 *.sqlite
 Classification Algorithm/train_model
+*.txt
+Classification Algorithm/database/Reviews.csv
