@@ -8,7 +8,6 @@ This repopsistory contains various data analysis technique and subsequent models
   - Trained a word2vec model using Gensim package with the following parameter value ( Word vector dimensionality  = 300, Minimum word count =40, Number of threads to run in parallel  = 3,  Context window size = 10 and downsampling rate for frequent words = 1e-3).
   - Created Feature vector to be used by random forest model by averaging word embeddings of all words in the review.
   - Accuracy : 0.895
-  - ROC curve 
   ![ROC CURVE](/results/ROCcurve_RandomForest-Classifier-using-wordEmbeddingFrom-word2vector-gensim.PNG)
   
 
