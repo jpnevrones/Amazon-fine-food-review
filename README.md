@@ -9,5 +9,6 @@ This repopsistory contains various data analysis technique and subsequent models
   - Created Feature vector to be used by random forest model by averaging word embeddings of all words in the review.
   - Accuracy : 
   - ROC curve 
+  ![ROC CURVE](/result/ROCcurve_RandomForest-Classifier-using-wordEmbeddingFrom-word2vector-gensim.PNG)
   
 
